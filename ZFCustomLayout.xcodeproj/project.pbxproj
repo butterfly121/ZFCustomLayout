@@ -22,6 +22,7 @@
 		04D7637A1BF4A10F00BFA855 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D763751BF4A10F00BFA855 /* ViewController.m */; };
 		04D7637B1BF4A10F00BFA855 /* ZFButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D763771BF4A10F00BFA855 /* ZFButton.m */; };
 		04D7637C1BF4A10F00BFA855 /* ZFView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D763791BF4A10F00BFA855 /* ZFView.m */; };
+		C70145181DC9D8F8006EA1E8 /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = C70145171DC9D8F8006EA1E8 /* 123.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		04D763771BF4A10F00BFA855 /* ZFButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFButton.m; sourceTree = "<group>"; };
 		04D763781BF4A10F00BFA855 /* ZFView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFView.h; sourceTree = "<group>"; };
 		04D763791BF4A10F00BFA855 /* ZFView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFView.m; sourceTree = "<group>"; };
+		C70145171DC9D8F8006EA1E8 /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 		04D7634B1BF4A0F200BFA855 /* ZFCustomLayout */ = {
 			isa = PBXGroup;
 			children = (
+				C70145171DC9D8F8006EA1E8 /* 123.png */,
 				04D763541BF4A0F200BFA855 /* ZFAppDelegate.h */,
 				04D763551BF4A0F200BFA855 /* ZFAppDelegate.m */,
 				04D763741BF4A10F00BFA855 /* ViewController.h */,
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04D763501BF4A0F200BFA855 /* InfoPlist.strings in Resources */,
+				C70145181DC9D8F8006EA1E8 /* 123.png in Resources */,
 				04D763581BF4A0F200BFA855 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
